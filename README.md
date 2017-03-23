@@ -1,6 +1,7 @@
-ReadMe File:
+#**ReadMe File:**
 
 Run the program using the following command:
+
 python decisionTree.py <L> <K> <training_set_csv_path> <validation_set_csv_path> <test_set_csv_path> <to_print>
 
 Sample Execution:
