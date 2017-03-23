@@ -1,4 +1,4 @@
-#**ReadMe File:**
+# **ReadMe File:**
 
 Run the program using the following command:
 
@@ -11,6 +11,9 @@ python decisionTree.py 35 35 data_sets1/training_set.csv data_sets1/validation_s
 Sample Output:
 
 Entropy Heuristic Test Results: 75.85 percent accuracy.
+
 Variance Impurity Heuristic Test Results: 76.65 percent accuracy.
+
 Entropy Heuristic Post Pruning Test Results: 76.75 percent accuracy.
+
 Variance Impurity Heuristic Post Pruning Test Results: 77.05 percent accuracy.
