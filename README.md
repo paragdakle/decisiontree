@@ -5,8 +5,11 @@ Run the program using the following command:
 python decisionTree.py <L> <K> <training_set_csv_path> <validation_set_csv_path> <test_set_csv_path> <to_print>
 
 where-
+
 L: integer (used in the post-pruning algorithm - number of outer iterations)
+
 K: integer (used in the post-pruning algorithm - random number generator limit for inner loop)
+
 to-print:{yes,no}
 
 Sample Execution:
