@@ -1,2 +1,2 @@
 # decisiontree
-Decision tree implementation to classify binary data
+Decision tree implementation for binary classification.
